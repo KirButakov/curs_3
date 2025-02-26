@@ -1,0 +1,5 @@
+DB_NAME=hh_vacancies
+DB_USER=ваш_пользователь_postgres
+DB_PASSWORD=ваш_пароль_postgres
+DB_HOST=localhost
+DB_PORT=5432
